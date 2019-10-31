@@ -1,3 +1,3 @@
 remark:
-  msg: 这是测试环境,provider同步刷新，provider同步刷新2,provider同步刷新3,测试springcloudbus刷新客户端
+  msg: 这是测试环境，测试springcloud-bus-amqp刷新配置中心服务端
   username: '{cipher}AQAAAtCtqKRKbpApGDVua0kie2ecQxgN9kvLoNVo97ODPgW0qsjIsrV9JJIm64yH+shQi8eRfJwrkKxST9gEtrl+PxrjteWWZu6bpK/FuDEdEWRFr5w13f392VGrHVksHJDN6M9IS/qI0JD7Nwo5z2YkZ6dRkfKZR5FnpwEhHsX9bFeA+OV6A+QgzSSuqJXi/KjajpavhPzwDvXfgs1GPf27DtEnpEgTY0P12kfx/ZEytzuk2ZXw/YWHPnhwRYOa4nbGwA4qZUp1Csxno38JLugGC4yMg0QRQ9ORlLQBa5M4jAHjf+TRegsA25LKcqyUPgo64I0ZDJLmjQ4CyBMFIrQDWLbJb8du/SFhQf9YbveptSWm8i+qRKIgA+SZtFwa6+I='
